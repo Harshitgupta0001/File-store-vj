@@ -4,8 +4,7 @@
 
 
 class script(object):
-    START_TXT = """Hᴇʟʟᴏ 😎 {} 🫡 Buddy
-<b><blockquote>ɪ ᴀᴍ ᴘᴏᴡᴇʀꜰᴜʟʟ FILE STORE / SHARE ʙᴏᴛ ᴊᴜꜱᴛ CLICK HELP AND KNOW MORE. ☜ </blockquote><b>
+    START_TXT = """Hᴇʟʟᴏ 😎 {} 
 <b><spoiler>🔋Maintained by <a href='https://t.me/Harshit_contact_bot'>ℍ𝕒ℝ𝕤ℍ𝕚𝕋</a></spoiler><b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
