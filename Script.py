@@ -14,6 +14,7 @@ class script(object):
     
     CAPTION = """<b><pre>𝚃𝚒𝚃𝚕𝚎✨</pre> <b>{file_name}</b>
 <blockquote>sɪᴢᴇ ⚙️: {file_size}</blockquote>
+<b><blockquote>BacKup ❤️‍🔥 @Movies_Eera</blockquote></b>
 """ 
 
 # Don't Remove Credit Tg - @VJ_Botz
